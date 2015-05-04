@@ -1,6 +1,12 @@
 {
   "name": "jasCup-membership",
+  "version":"0.0.1",
   "author": "Prakash Joshi",
+  "description": "My membership module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prakashversion1/Elearning.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "grunt": "*",
