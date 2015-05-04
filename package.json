@@ -1,0 +1,11 @@
+{
+  "name": "jasCup-membership",
+  "author": "Prakash Joshi",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "should": "^6.0.1"
+  }
+}
